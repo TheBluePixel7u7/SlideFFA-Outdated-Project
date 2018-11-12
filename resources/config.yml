@@ -1,0 +1,43 @@
+---
+#SlideFFA v2.5 by @SlideNetworkPE (Development Team @DWIFULOVE)
+#Arenas Configuration
+# Gapple
+arena.gapple.world: "gapple-ffa"
+arena.gapple.x: 0
+arena.gapple.y: 50
+arena.gapple.z: 0
+# Nodebuff
+arena.nodebuff.world: "nodebuff-ffa"
+arena.nodebuff.x: 0
+arena.nodebuff.y: 50
+arena.nodebuff.z: 0
+# Debuff
+arena.debuff.world: "debuff-ffa"
+arena.debuff.x: 0
+arena.debuff.y: 50
+arena.debuff.z: 0
+# Brasil Style
+arena.br.world: "br-ffa"
+arena.br.x: 0
+arena.br.y: 50
+arena.br.z: 0
+# Combo
+arena.combo.world: "combo-ffa"
+arena.combo.x: 0
+arena.combo.y: 50
+arena.combo.z: 0
+# BUHC
+arena.buhc.world: "buhc-ffa"
+arena.buhc.x: 0
+arena.buhc.y: 50
+arena.buhc.z: 0
+
+#Custom item names
+#When players got the SelectMenu this names will get.
+gapple.name: "Join in §eGapple§r style"
+nodebuff.name: "Join in §cNodebuff§r style"
+debuff.name: "Join in §aDebuff§r style"
+br.name: "Join in §aBrasil§r style"
+combo.name: "Join in §9Combo§r style"
+buhc.name: "Join in §6BUHC§r style"
+...
